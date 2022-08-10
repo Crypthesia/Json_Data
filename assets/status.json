@@ -1,0 +1,27 @@
+{
+  ver 1.0,
+  date ddmmyyyy,
+  srclink_to_host,
+  abi{
+    strategycommonLP{
+      path path_to_json,
+      ver 1.0
+    },
+    vault{
+      path path_to_json,
+      ver 1.0
+    },
+    masterchef_jetswap_polygon{
+      path path_to_json,
+      ver 1.0
+    },
+    router_jetswap_polygon{
+      path path_to_json,
+      ver 1.0
+    }
+  },
+  assets{
+    backgroundimagepath_to_image,
+    title_image path_to_image
+  }
+}
