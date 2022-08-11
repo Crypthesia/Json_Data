@@ -1,7 +1,7 @@
 {
   "ver": 1.0,
   "date": "ddmmyyyy",
-  "src":"https://raw.githubusercontent.com/Crypthesia/Json_Data/main/",
+  "src":"https://raw.githubusercontent.com/Crypthesia/Json_Data/main",
   "abi":{
     "strategycommonLP":{
       "path": "path_to_json",
