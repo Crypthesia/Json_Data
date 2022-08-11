@@ -1,0 +1,9 @@
+[
+  {
+    "name": "USDC-USDT Jetswap",
+    "coverUrl": "https://img.freepik.com/premium-vector/usd-coin-cryptocurrency-platform-token-logo-coin-icon-isolated-white-background-vector-illustration_125869-2394.jpg",
+    "vaultAddress": "0x93c9f29CF2496e73f3d8b07055e2359267207147",
+    "chain": "polygon",
+    "statType": "StrategyCommonChefLP.sol"
+  }
+]
