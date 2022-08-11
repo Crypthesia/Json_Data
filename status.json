@@ -5,24 +5,34 @@
   "api-url":"https://api.beefy.finance/vaults",
   "abi":{
     "strategycommonLP":{
-      "path": "path_to_json",
+      "path": "/abi/strategies/Common/StrategyCommonChefLP.sol/StrategyCommonChefLP.json",
       "ver": 1.0
     },
     "vault":{
-      "path": "path_to_json",
+      "path": "/abi/vaults/BeefyVaultV6.sol/BeefyVaultV6.json",
       "ver": 1.0
     },
-    "masterchef_jetswap_polygon":{
-      "path": "path_to_json",
+    "masterchef":{
+      "path": "/abi/interfaces/common/IMasterChef.sol/IMasterChef.json",
       "ver": 1.0
     },
-    "router_jetswap_polygon":{
-      "path": "path_to_json",
+    "routerETH":{
+      "path": "/abi/interfaces/common/IUniswapRouterETH.sol/IUniswapRouterETH.json",
       "ver": 1.0
     }
   },
-  "assets":{
-    "backgroundimage":"path_to_image",
-    "title_image": "path_to_image"
+  "image":{
+    "backgroundimage":{
+      "path": "/images/background.jpg",
+      "ver": 1.0
+    },
+    "logo":{
+      "path": "/images/logo.png",
+      "ver": 1.0
+    },
+    "title_background":{
+      "path": "/images/title_background.png",
+      "ver": 1.0
+    }
   }
 }
