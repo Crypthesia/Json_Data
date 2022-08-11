@@ -7,7 +7,7 @@
     "strategycommonLP":{
       "path": "/abi/strategies/Common/StrategyCommonChefLP.sol/",
       "name": "StrategyCommonChefLP.json",
-      "ver": 1.0
+      "ver": 1.1
     },
     "vault":{
       "path": "/abi/vaults/BeefyVaultV6.sol/",
