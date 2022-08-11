@@ -27,15 +27,18 @@
   },
   "image":{
     "backgroundimage":{
-      "path": "/images/background.jpg",
+      "path": "/images/",
+      "name": "background.jpg",
       "ver": 1.0
     },
     "logo":{
-      "path": "/images/logo.png",
+      "path": "/images/",
+      "name": "logo.png",
       "ver": 1.0
     },
     "title_background":{
-      "path": "/images/title_background.png",
+      "path": "/images/",
+      "name": "title_background.png",
       "ver": 1.0
     }
   }
