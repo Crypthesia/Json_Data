@@ -5,19 +5,23 @@
   "api-url":"https://api.beefy.finance/vaults",
   "abi":{
     "strategycommonLP":{
-      "path": "/abi/strategies/Common/StrategyCommonChefLP.sol/StrategyCommonChefLP.json",
+      "path": "/abi/strategies/Common/StrategyCommonChefLP.sol/",
+      "name": "StrategyCommonChefLP.json",
       "ver": 1.0
     },
     "vault":{
-      "path": "/abi/vaults/BeefyVaultV6.sol/BeefyVaultV6.json",
+      "path": "/abi/vaults/BeefyVaultV6.sol/",
+      "name": "BeefyVaultV6.json",      
       "ver": 1.0
     },
     "masterchef":{
-      "path": "/abi/interfaces/common/IMasterChef.sol/IMasterChef.json",
+      "path": "/abi/interfaces/common/IMasterChef.sol/",
+      "name": "IMasterChef.json",
       "ver": 1.0
     },
     "routerETH":{
-      "path": "/abi/interfaces/common/IUniswapRouterETH.sol/IUniswapRouterETH.json",
+      "path": "/abi/interfaces/common/IUniswapRouterETH.sol/",
+      "name": "IUniswapRouterETH.json",
       "ver": 1.0
     }
   },
