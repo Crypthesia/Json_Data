@@ -2,6 +2,7 @@
   "ver": 1.0,
   "date": "ddmmyyyy",
   "src":"https://raw.githubusercontent.com/Crypthesia/Json_Data/main/",
+  "vault-api": "https://api.beefy.finance/vaults",
   "abi":{
     "strategycommonLP":{
       "path": "path_to_json",
