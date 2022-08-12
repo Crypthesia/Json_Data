@@ -3,6 +3,7 @@
     "name": "USDC-USDT Jetswap",
     "coverUrl": "https://img.freepik.com/premium-vector/usd-coin-cryptocurrency-platform-token-logo-coin-icon-isolated-white-background-vector-illustration_125869-2394.jpg",
     "vaultAddress": "0x93c9f29CF2496e73f3d8b07055e2359267207147",
+    "want": "0x20bf018fddba3b352f3d913fe1c81b846fe0f490",
     "chain": "polygon",
     "statType": "StrategyCommonChefLP.sol"
   },
@@ -10,6 +11,7 @@
     "name": "BNB - Demo1",
     "coverUrl": "https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/1024/Binance-Coin-BNB-icon.png",
     "vaultAddress": "0x93c9f29CF2496e73f3d8b07055e2359267207147",
+    "want": "0x20bf018fddba3b352f3d913fe1c81b846fe0f490",
     "chain": "polygon",
     "statType": "StrategyCommonChefLP.sol"
   },
@@ -17,6 +19,7 @@
     "name": "ETH - Demo2",
     "coverUrl": "https://cdn.pixabay.com/photo/2021/05/24/09/15/ethereum-6278326_1280.png",
     "vaultAddress": "0x93c9f29CF2496e73f3d8b07055e2359267207147",
+    "want": "0x20bf018fddba3b352f3d913fe1c81b846fe0f490",
     "chain": "polygon",
     "statType": "StrategyCommonChefLP.sol"
   },
@@ -24,6 +27,7 @@
     "name": "SOL - Demo3",
     "coverUrl": "https://s2.coinmarketcap.com/static/img/coins/200x200/5426.png",
     "vaultAddress": "0x93c9f29CF2496e73f3d8b07055e2359267207147",
+    "want": "0x20bf018fddba3b352f3d913fe1c81b846fe0f490",
     "chain": "polygon",
     "statType": "StrategyCommonChefLP.sol"
   }
