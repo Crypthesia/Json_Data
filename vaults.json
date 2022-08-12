@@ -7,22 +7,22 @@
     "statType": "StrategyCommonChefLP.sol"
   },
   {
-    "name": "USDC-USDT Jetswap - Demo1",
-    "coverUrl": "https://img.freepik.com/premium-vector/usd-coin-cryptocurrency-platform-token-logo-coin-icon-isolated-white-background-vector-illustration_125869-2394.jpg",
+    "name": "BNB - Demo1",
+    "coverUrl": "https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/1024/Binance-Coin-BNB-icon.png",
     "vaultAddress": "0x93c9f29CF2496e73f3d8b07055e2359267207147",
     "chain": "polygon",
     "statType": "StrategyCommonChefLP.sol"
   },
   {
-    "name": "USDC-USDT Jetswap - Demo2",
-    "coverUrl": "https://img.freepik.com/premium-vector/usd-coin-cryptocurrency-platform-token-logo-coin-icon-isolated-white-background-vector-illustration_125869-2394.jpg",
+    "name": "ETH - Demo2",
+    "coverUrl": "https://cdn4.iconfinder.com/data/icons/cryptocoins/227/ETH-alt-512.png",
     "vaultAddress": "0x93c9f29CF2496e73f3d8b07055e2359267207147",
     "chain": "polygon",
     "statType": "StrategyCommonChefLP.sol"
   },
   {
-    "name": "USDC-USDT Jetswap- Demo3",
-    "coverUrl": "https://img.freepik.com/premium-vector/usd-coin-cryptocurrency-platform-token-logo-coin-icon-isolated-white-background-vector-illustration_125869-2394.jpg",
+    "name": "SOL - Demo3",
+    "coverUrl": "https://s2.coinmarketcap.com/static/img/coins/200x200/5426.png",
     "vaultAddress": "0x93c9f29CF2496e73f3d8b07055e2359267207147",
     "chain": "polygon",
     "statType": "StrategyCommonChefLP.sol"
