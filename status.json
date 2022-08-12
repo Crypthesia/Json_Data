@@ -23,6 +23,11 @@
       "path": "/abi/interfaces/common/IUniswapRouterETH.sol/",
       "name": "IUniswapRouterETH.json",
       "ver": 1.0
+    },
+    "LPpair":{
+      "path": "/abi/contracts/BIFI/interfaces/common/IUniswapV2Pair.sol/",
+      "name": "IUniswapV2Pair.json",
+      "ver": 1.0
     }
   },
   "image":{
