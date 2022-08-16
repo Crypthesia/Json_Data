@@ -2,7 +2,7 @@
   "ver": 1.0,
   "date": "ddmmyyyy",
   "src":"https://raw.githubusercontent.com/Crypthesia/Json_Data/main",
-  "api-url":"https://api.beefy.finance/vaults",
+  "api-url":"https://api.beefy.finance/apy",
   "abi":{
     "strategycommonLP":{
       "path": "/abi/strategies/Common/StrategyCommonChefLP.sol/",
