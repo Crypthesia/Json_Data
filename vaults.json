@@ -70,5 +70,14 @@
     "want": "0x20bf018fddba3b352f3d913fe1c81b846fe0f490",
     "chain": "polygon",
     "statType": "StrategyCommonChefLP.sol"
+  },
+  {
+    "id": "jetswap-poly-usdc-usdt",
+    "name": "CRT USDC - USDT Jetswap",
+    "coverUrl": "https://raw.githubusercontent.com/Crypthesia/Json_Data/main/images/Token/eth.png",
+    "vaultAddress": "0xad8bfcdC4a75aEA6759488C44735E132ffbACa38",
+    "want": "0x20bf018fddba3b352f3d913fe1c81b846fe0f490",
+    "chain": "polygon",
+    "statType": "StrategyCommonChefLP.sol"
   }
 ]
