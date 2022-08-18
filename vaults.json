@@ -72,7 +72,7 @@
     "statType": "StrategyCommonChefLP.sol"
   },
   {
-    "id": "jetswap-poly-usdc-usdt",
+    "id": "cometh-eth-wbtc",
     "name": "CRT 2 USDC - USDT Jetswap",
     "coverUrl": "https://raw.githubusercontent.com/Crypthesia/Json_Data/main/images/Token/eth.png",
     "vaultAddress": "0xad8bfcdC4a75aEA6759488C44735E132ffbACa38",
