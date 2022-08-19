@@ -28,6 +28,11 @@
       "path": "/abi/interfaces/common/IUniswapV2Pair.sol/",
       "name": "IUniswapV2Pair.json",
       "ver": 1.1
+    },
+    "ERC20":{
+      "path": "/abi/interfaces/common/IERC20.sol/",
+      "name": "IERC20.json",
+      "ver": 1.0
     }
   },
   "image":{
