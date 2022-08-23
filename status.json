@@ -50,6 +50,11 @@
       "path": "/images/",
       "name": "title_background.png",
       "ver": 1.0
+    },
+    "swap":{
+      "path": "/images/",
+      "name": "swap.png",
+      "ver": 1.0
     }
   }
 }
