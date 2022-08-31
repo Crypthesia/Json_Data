@@ -6,6 +6,7 @@
     "vaultAddress": "0x93c9f29CF2496e73f3d8b07055e2359267207147",
     "want": "0x20bf018fddba3b352f3d913fe1c81b846fe0f490",
     "chain": "polygon",
+    "chainid": 137,
     "statType": "StrategyCommonChefLP.sol"
   },
   {
@@ -15,6 +16,7 @@
     "vaultAddress": "0xd470bc940E3699e9F5fe942373ebfE51E637282D",
     "want": "0x20bf018fddba3b352f3d913fe1c81b846fe0f490",
     "chain": "polygon",
+    "chainid": 137,
     "statType": "StrategyCommonChefLP.sol"
   },
   {
@@ -24,6 +26,7 @@
     "vaultAddress": "0x93c9f29CF2496e73f3d8b07055e2359267207147",
     "want": "0x20bf018fddba3b352f3d913fe1c81b846fe0f490",
     "chain": "polygon",
+    "chainid": 137,
     "statType": "StrategyCommonChefLP.sol"
   },
   {
@@ -33,6 +36,7 @@
     "vaultAddress": "0x8440DAe4E1002e83D57fbFD6d33E6F3684a35036",
     "want": "0x5b13b583d4317ab15186ed660a1e4c65c10da659",
     "chain": "polygon",
+    "chainid": 137,
     "statType": "StrategyCommonChefLP.sol"
   },
   {
@@ -42,6 +46,7 @@
     "vaultAddress": "0x93c9f29CF2496e73f3d8b07055e2359267207147",
     "want": "0x20bf018fddba3b352f3d913fe1c81b846fe0f490",
     "chain": "polygon",
+    "chainid": 137,
     "statType": "StrategyCommonChefLP.sol"
   },
   {
@@ -51,6 +56,7 @@
     "vaultAddress": "0x93c9f29CF2496e73f3d8b07055e2359267207147",
     "want": "0x20bf018fddba3b352f3d913fe1c81b846fe0f490",
     "chain": "polygon",
+    "chainid": 137,
     "statType": "StrategyCommonChefLP.sol"
   },
   {
@@ -60,6 +66,7 @@
     "vaultAddress": "0x93c9f29CF2496e73f3d8b07055e2359267207147",
     "want": "0x20bf018fddba3b352f3d913fe1c81b846fe0f490",
     "chain": "polygon",
+    "chainid": 137,
     "statType": "StrategyCommonChefLP.sol"
   },
   {
@@ -69,6 +76,7 @@
     "vaultAddress": "0x93c9f29CF2496e73f3d8b07055e2359267207147",
     "want": "0x20bf018fddba3b352f3d913fe1c81b846fe0f490",
     "chain": "polygon",
+    "chainid": 137,
     "statType": "StrategyCommonChefLP.sol"
   },
   {
@@ -78,6 +86,7 @@
     "vaultAddress": "0xad8bfcdC4a75aEA6759488C44735E132ffbACa38",
     "want": "0x20bf018fddba3b352f3d913fe1c81b846fe0f490",
     "chain": "polygon",
+    "chainid": 137,
     "statType": "StrategyCommonChefLP.sol"
   }
 ]
