@@ -19,5 +19,12 @@
     "native":"WBNB",
     "rpc":"https://bsc-dataseed1.binance.org/",
     "status": "enable"
+  },
+  "1":
+  {
+    "name":"Ethereum",
+    "native":"WETH",
+    "rpc":"https://eth-rpc.gateway.pokt.network",
+    "status": "enable"
   }
 }
