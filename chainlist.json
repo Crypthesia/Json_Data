@@ -1,6 +1,6 @@
 {
-  "31337"
-  :{
+  "31337":
+  {
     "name":"Fork Polygon",
     "native":"WMatic",
     "rpc":"http://10.0.2.2:8545",
