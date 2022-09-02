@@ -3,6 +3,8 @@
   "date": "ddmmyyyy",
   "src":"https://raw.githubusercontent.com/Crypthesia/Json_Data/main",
   "api-url":"https://api.beefy.finance/apy",
+  "pathVault":"/vaults.json",
+  "pathChainList":"/chainlist.json",
   "abi":{
     "strategycommonLP":{
       "path": "/abi/strategies/Common/StrategyCommonChefLP.sol/",
