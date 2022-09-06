@@ -2,6 +2,8 @@
   {
     "id": "jetswap-poly-usdc-usdt",
     "name": "BF USDC-USDT Jetswap",
+    "name_token":"USDC-USDT",
+    "name_chef":"Jetswap",
     "coverUrl": "https://raw.githubusercontent.com/Crypthesia/Json_Data/main/images/Token/eth.png",
     "vaultAddress": "0x93c9f29CF2496e73f3d8b07055e2359267207147",
     "want": "0x20bf018fddba3b352f3d913fe1c81b846fe0f490",
@@ -11,7 +13,9 @@
   },
   {
     "id": "jetswap-poly-usdc-usdt",
-    "name": "ETH - Demo2",
+    "name": "ETH - Demo2",    
+    "name_token":"USDC-USDT",
+    "name_chef":"Jetswap",
     "coverUrl": "https://raw.githubusercontent.com/Crypthesia/Json_Data/main/images/Token/eth.png",
     "vaultAddress": "0x93c9f29CF2496e73f3d8b07055e2359267207147",
     "want": "0x20bf018fddba3b352f3d913fe1c81b846fe0f490",
@@ -21,7 +25,9 @@
   },
   {
     "id": "ape-usdc-dai",
-    "name": "BF ApeSwap USDC-DAI",
+    "name": "BF ApeSwap USDC-DAI",    
+    "name_token":"USDC-DAI",
+    "name_chef":"ApeSwap",
     "coverUrl": "https://raw.githubusercontent.com/Crypthesia/Json_Data/main/images/Token/sol.png",
     "vaultAddress": "0x8440DAe4E1002e83D57fbFD6d33E6F3684a35036",
     "want": "0x5b13b583d4317ab15186ed660a1e4c65c10da659",
@@ -32,6 +38,8 @@
   {
     "id": "jetswap-poly-usdc-usdt",
     "name": "USDC-USDT Jetswap",
+    "name_token":"USDC-USDT",
+    "name_chef":"Jetswap",
     "coverUrl": "https://raw.githubusercontent.com/Crypthesia/Json_Data/main/images/Token/eth.png",
     "vaultAddress": "0x93c9f29CF2496e73f3d8b07055e2359267207147",
     "want": "0x20bf018fddba3b352f3d913fe1c81b846fe0f490",
@@ -42,6 +50,8 @@
   {
     "id": "jetswap-poly-usdc-usdt",
     "name": "BNB - Demo1",
+    "name_token":"USDC-USDT",
+    "name_chef":"Jetswap",
     "coverUrl": "https://raw.githubusercontent.com/Crypthesia/Json_Data/main/images/Token/bnb.png",
     "vaultAddress": "0x93c9f29CF2496e73f3d8b07055e2359267207147",
     "want": "0x20bf018fddba3b352f3d913fe1c81b846fe0f490",
@@ -52,6 +62,8 @@
   {
     "id": "jetswap-poly-usdc-usdt",
     "name": "ETH - Demo2",
+    "name_token":"USDC-USDT",
+    "name_chef":"Jetswap",
     "coverUrl": "https://raw.githubusercontent.com/Crypthesia/Json_Data/main/images/Token/eth.png",
     "vaultAddress": "0x93c9f29CF2496e73f3d8b07055e2359267207147",
     "want": "0x20bf018fddba3b352f3d913fe1c81b846fe0f490",
@@ -62,6 +74,8 @@
   {
     "id": "jetswap-poly-usdc-usdt",
     "name": "SOL - Demo3",
+    "name_token":"USDC-USDT",
+    "name_chef":"Jetswap",
     "coverUrl": "https://raw.githubusercontent.com/Crypthesia/Json_Data/main/images/Token/sol.png",
     "vaultAddress": "0x93c9f29CF2496e73f3d8b07055e2359267207147",
     "want": "0x20bf018fddba3b352f3d913fe1c81b846fe0f490",
@@ -72,6 +86,8 @@
   {
     "id": "cometh-eth-wbtc",
     "name": "CRT 2 USDC - USDT Jetswap",
+    "name_token":"USDC-USDT",
+    "name_chef":"Jetswap",
     "coverUrl": "https://raw.githubusercontent.com/Crypthesia/Json_Data/main/images/Token/eth.png",
     "vaultAddress": "0xad8bfcdC4a75aEA6759488C44735E132ffbACa38",
     "want": "0x20bf018fddba3b352f3d913fe1c81b846fe0f490",
@@ -82,6 +98,8 @@
   {
     "id": "jetswap-poly-usdc-usdt",
     "name": "BF USDC-USDT Jetswap",
+    "name_token":"USDC-USDT",
+    "name_chef":"Jetswap",
     "coverUrl": "https://raw.githubusercontent.com/Crypthesia/Json_Data/main/images/Token/eth.png",
     "vaultAddress": "0x93c9f29CF2496e73f3d8b07055e2359267207147",
     "want": "0x20bf018fddba3b352f3d913fe1c81b846fe0f490",
@@ -92,6 +110,8 @@
   {
     "id": "jetswap-poly-usdc-usdt",
     "name": "CRT USDC - USDT Jetswap",
+    "name_token":"USDC-USDT",
+    "name_chef":"Jetswap",
     "coverUrl": "https://raw.githubusercontent.com/Crypthesia/Json_Data/main/images/Token/eth.png",
     "vaultAddress": "0xd470bc940E3699e9F5fe942373ebfE51E637282D",
     "want": "0x20bf018fddba3b352f3d913fe1c81b846fe0f490",
@@ -102,6 +122,8 @@
   {
     "id": "jetswap-poly-usdc-usdt",
     "name": "ETH - Demo2",
+    "name_token":"USDC-USDT",
+    "name_chef":"Jetswap",
     "coverUrl": "https://raw.githubusercontent.com/Crypthesia/Json_Data/main/images/Token/eth.png",
     "vaultAddress": "0x93c9f29CF2496e73f3d8b07055e2359267207147",
     "want": "0x20bf018fddba3b352f3d913fe1c81b846fe0f490",
@@ -112,6 +134,8 @@
   {
     "id": "ape-usdc-dai",
     "name": "BF ApeSwap USDC-DAI",
+    "name_token":"USDC-DAI",
+    "name_chef":"ApeSwap",
     "coverUrl": "https://raw.githubusercontent.com/Crypthesia/Json_Data/main/images/Token/sol.png",
     "vaultAddress": "0x8440DAe4E1002e83D57fbFD6d33E6F3684a35036",
     "want": "0x5b13b583d4317ab15186ed660a1e4c65c10da659",
@@ -119,54 +143,17 @@
     "chainid": 31337,
     "statType": "StrategyCommonChefLP.sol"
   },
-  {
-    "id": "jetswap-poly-usdc-usdt",
-    "name": "USDC-USDT Jetswap",
-    "coverUrl": "https://raw.githubusercontent.com/Crypthesia/Json_Data/main/images/Token/eth.png",
-    "vaultAddress": "0x93c9f29CF2496e73f3d8b07055e2359267207147",
-    "want": "0x20bf018fddba3b352f3d913fe1c81b846fe0f490",
-    "chain": "polygon",
-    "chainid": 31337,
-    "statType": "StrategyCommonChefLP.sol"
-  },
-  {
-    "id": "jetswap-poly-usdc-usdt",
-    "name": "BNB - Demo1",
+    {
+    "id": "ripae-pae-bnb"",
+    "name": "BF Ripae PAE-BNB",
+    "name_token":"PAE-BNB",
+    "name_chef":"Ripae Finance",
     "coverUrl": "https://raw.githubusercontent.com/Crypthesia/Json_Data/main/images/Token/bnb.png",
-    "vaultAddress": "0x93c9f29CF2496e73f3d8b07055e2359267207147",
-    "want": "0x20bf018fddba3b352f3d913fe1c81b846fe0f490",
-    "chain": "polygon",
-    "chainid": 31337,
-    "statType": "StrategyCommonChefLP.sol"
-  },
-  {
-    "id": "jetswap-poly-usdc-usdt",
-    "name": "ETH - Demo2",
-    "coverUrl": "https://raw.githubusercontent.com/Crypthesia/Json_Data/main/images/Token/eth.png",
-    "vaultAddress": "0x93c9f29CF2496e73f3d8b07055e2359267207147",
-    "want": "0x20bf018fddba3b352f3d913fe1c81b846fe0f490",
-    "chain": "polygon",
-    "chainid": 31337,
-    "statType": "StrategyCommonChefLP.sol"
-  },
-  {
-    "id": "jetswap-poly-usdc-usdt",
-    "name": "SOL - Demo3",
-    "coverUrl": "https://raw.githubusercontent.com/Crypthesia/Json_Data/main/images/Token/sol.png",
-    "vaultAddress": "0x93c9f29CF2496e73f3d8b07055e2359267207147",
-    "want": "0x20bf018fddba3b352f3d913fe1c81b846fe0f490",
-    "chain": "polygon",
-    "chainid": 31337,
-    "statType": "StrategyCommonChefLP.sol"
-  },
-  {
-    "id": "cometh-eth-wbtc",
-    "name": "CRT 2 USDC - USDT Jetswap",
-    "coverUrl": "https://raw.githubusercontent.com/Crypthesia/Json_Data/main/images/Token/eth.png",
-    "vaultAddress": "0xad8bfcdC4a75aEA6759488C44735E132ffbACa38",
-    "want": "0x20bf018fddba3b352f3d913fe1c81b846fe0f490",
-    "chain": "polygon",
-    "chainid": 31337,
+    "vaultAddress": "0x1592550E083286C35282E53732FDE11800A187E1",
+    "want": "0x8ea4875469e8fd7ad3790b4c7deef768ca1e806f",
+    "chain": "bnb",
+    "chainid": 56,
     "statType": "StrategyCommonChefLP.sol"
   }
+  
 ]
