@@ -110,7 +110,7 @@
   {
     "id": "jetswap-poly-usdc-usdt",
     "name": "CRT USDC - USDT Jetswap",
-    "name_token":"USDC-USDT",
+    "name_token":"CRT USDC-USDT",
     "name_chef":"Jetswap",
     "coverUrl": "https://raw.githubusercontent.com/Crypthesia/Json_Data/main/images/Token/eth.png",
     "vaultAddress": "0xd470bc940E3699e9F5fe942373ebfE51E637282D",
