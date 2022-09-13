@@ -93,7 +93,7 @@
   {
     "id": "cometh-eth-wbtc",
     "name": "CRT 2 USDC - USDT Jetswap",
-    "name_token":"USDC-USDT",
+    "name_token":"CRT USDC-USDT",
     "name_chef":"Jetswap",
     "coverUrl": "https://raw.githubusercontent.com/Crypthesia/Json_Data/main/images/Token/eth.png",
     "vaultAddress": "0xad8bfcdC4a75aEA6759488C44735E132ffbACa38",
