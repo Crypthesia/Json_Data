@@ -1,5 +1,18 @@
 [
   {
+    "id": "curve-matic-stmatic",
+    "name": "crtv stMATIC-MATIC Curves",
+    "name_token":"stMATIC-MATIC",
+    "name_chef":"Curve",
+    "coverUrl": "https://raw.githubusercontent.com/Crypthesia/Json_Data/main/images/Token/eth.png",
+    "vaultAddress": "0x74A772Dbc516f37f2855D21266aC0B4eCCd23caa",
+    "zapAddress": "0x9b65e4d7379EaD4751257b2a09b9126C432d7a3a",
+    "want": "0xe7cea2f6d7b120174bf3a9bc98efaf1ff72c997d",
+    "chain": "polygon",
+    "chainid": 137,
+    "statType": "StrategyCommonChefLP.sol"
+  },
+  {
     "id": "jetswap-poly-usdc-usdt",
     "name": "BF USDC-USDT Jetswap",
     "name_token":"USDC-USDT",
