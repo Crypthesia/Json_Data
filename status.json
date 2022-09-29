@@ -6,24 +6,9 @@
   "pathVault":"/vaults.json",
   "pathChainList":"/chainlist.json",
   "abi":{
-    "strategycommonLP":{
-      "path": "/abi/strategies/Common/StrategyCommonChefLP.sol/",
-      "name": "StrategyCommonChefLP.json",
-      "ver": 1.1
-    },
     "vault":{
       "path": "/abi/vaults/BeefyVaultV6.sol/",
       "name": "BeefyVaultV6.json",      
-      "ver": 1.0
-    },
-    "masterchef":{
-      "path": "/abi/interfaces/common/IMasterChef.sol/",
-      "name": "IMasterChef.json",
-      "ver": 1.0
-    },
-    "routerETH":{
-      "path": "/abi/interfaces/common/IUniswapRouterETH.sol/",
-      "name": "IUniswapRouterETH.json",
       "ver": 1.0
     },
     "LPpair":{
