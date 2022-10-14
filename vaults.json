@@ -1,20 +1,20 @@
 [
   {
-    "bfId": "curve-matic-stmatic",
+    "bf_id": "curve-matic-stmatic",
     "tokens": ["stmatic", "matic"],
     "platform":"curve",
-    "vaultAddress": "0x74A772Dbc516f37f2855D21266aC0B4eCCd23caa",
+    "vault_address": "0x74A772Dbc516f37f2855D21266aC0B4eCCd23caa",
     "want": "0xe7cea2f6d7b120174bf3a9bc98efaf1ff72c997d",
-    "chainId": "137",
-    "stratType": "StrategyCommonChefLP.sol"
+    "chain_id": "137",
+    "strategy_type": "StrategyCommonChefLP.sol"
   },
   {
-    "bfId": "jetswap-poly-usdc-usdt",
+    "bf_id": "jetswap-poly-usdc-usdt",
     "tokens":["usdc","usdt"],
     "platform":"jetswap",
-    "vaultAddress": "0x93c9f29CF2496e73f3d8b07055e2359267207147",
+    "vault_address": "0x93c9f29CF2496e73f3d8b07055e2359267207147",
     "want": "0x20bf018fddba3b352f3d913fe1c81b846fe0f490",
-    "chainId": "137",
-    "stratType": "StrategyCommonChefLP.sol"
+    "chain_id": "137",
+    "strategy_type": "StrategyCommonChefLP.sol"
   }
 ]
