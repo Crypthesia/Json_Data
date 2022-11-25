@@ -8,6 +8,7 @@
       "vault_address": "0x74A772Dbc516f37f2855D21266aC0B4eCCd23caa",
       "want": "0xe7cea2f6d7b120174bf3a9bc98efaf1ff72c997d",
       "zap":"0x410d27FDf182954F40451f4c7AdEAb316AABA2fE",
+      "pool":"0xFb6FE7802bA9290ef8b00CA16Af4Bc26eb663a28",
       "chain_id": "137",
       "strategy_type": "StrategyCommonChefLP.sol"
     },
