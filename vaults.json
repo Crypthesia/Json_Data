@@ -1,6 +1,18 @@
 {
   "vaults":[
     {
+      "bf_id": "curve-am3crv",
+      "tokens": ["DAI", "USDC", "USDT"],
+      "token_address":["0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063","0x2791bca1f2de4661ed88a30c99a7a9449aa84174", "0xc2132d05d31c914a87c6611c10748aeb04b58e8f"],
+      "platform":"curve",
+      "vault_address": "0xA675F817D774da22dae7B48D3cB0250d2dF62cC3",
+      "want": "0xe7a24ef0c5e95ffb0f6684b813a78f2a3ad7d171",
+      "zap":"0x410d27FDf182954F40451f4c7AdEAb316AABA2fE",
+      "pool":"0x445fe580ef8d70ff569ab36e80c647af338db351",
+      "chain_id": "137",
+      "strategy_type": "StrategyCurveLP.sol"
+    },
+    {
       "bf_id": "curve-matic-stmatic",
       "tokens": ["stMATIC", "MATIC"],
       "token_address":["0x3a58a54c066fdc0f2d55fc9c89f0415c92ebf3c4","0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270"],
@@ -10,7 +22,7 @@
       "zap":"0x410d27FDf182954F40451f4c7AdEAb316AABA2fE",
       "pool":"0xFb6FE7802bA9290ef8b00CA16Af4Bc26eb663a28",
       "chain_id": "137",
-      "strategy_type": "StrategyCommonChefLP.sol"
+      "strategy_type": "StrategyCurveLP.sol"
     },
     {
       "bf_id": "jetswap-poly-usdc-usdt",
