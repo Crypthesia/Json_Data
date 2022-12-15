@@ -1,22 +1,29 @@
 {
-	"news":[
-    {
-	"title":"Title 01",
-	"content": "Very long content Very long content Very long content Very long content Very long content Very long content Very long content Very long content Very long content Very long content Very long content Very long content Very long content Very long content Very long content Very long content Very long content \n Very long content Very long content Very long content Very long content Very long content Very long content Very long content Very long content Very long content ",
-	"imageUrl":"https://i.pinimg.com/474x/6d/ba/00/6dba004bd65cfe49524b40e08c29db91.jpg",
-	"date":"05:38 29/11/2022"
-    },
+    "news": [
         {
-	"title":"Title 02",
-	"content": "Very long content Very long content Very long content Very long content Very long content Very long content Very long content Very long content Very long content Very long content Very long content Very long content Very long content Very long content Very long content Very long content Very long content \n Very long content Very long content Very long content Very long content Very long content Very long content Very long content Very long content Very long content ",
-	"imageUrl":"https://i.pinimg.com/474x/6d/ba/00/6dba004bd65cfe49524b40e08c29db91.jpg",
-	"date":"05:38 29/11/2022"
-    },
+            "title": "Super super experience",
+            "content": "All we want is an app for us to pass time with fun!!, taste blockchain without tear, and hold tight to our wallet keys in hands. And more !! over time. Tell us what you think friends@diagon1.com"
+        },
         {
-	"title":"Title 03",
-	"content": "Very long content Very long content Very long content Very long content Very long content Very long content Very long content Very long content Very long content Very long content Very long content Very long content Very long content Very long content Very long content Very long content Very long content \n Very long content Very long content Very long content Very long content Very long content Very long content Very long content Very long content Very long content ",
-	"imageUrl":"https://i.pinimg.com/474x/6d/ba/00/6dba004bd65cfe49524b40e08c29db91.jpg",
-	"date":"05:38 29/11/2022" 
-    }
- ]
+            "title": "Noncustodial wallet",
+            "content": "All private keys stay in your phone. We trust no one with our keys. So do you. And so don't forget to keep a backup of your keys under the door mat, in the kitchen, well...any where safe. Then of course, you can send, receive your crypto. We only want to play with Polygon for now because it is much more economic than other chains. And of course, it is highly recommended to try with a small amount of funds first.",
+            "imageUrl": "https://i.pinimg.com/474x/6d/ba/00/6dba004bd65cfe49524b40e08c29db91.jpg"
+        },
+        {
+            "title": "Vault to store and make a little more",
+            "content": "One touch to store a native or stable coins to a vault with auto-compound interest...no hassle of all the crypto jargon or steps like swapping, lp, staking...phew! These vaults are selected as we feel comfortable to put our tokens in. We love low risk tokens, high APY, top finance platforms. But let us be clear that we don't offer any investment advice, and all investments have risks, especially high risks with crypto products. ",
+            "imageUrl": "https://i.pinimg.com/474x/6d/ba/00/6dba004bd65cfe49524b40e08c29db91.jpg",
+            "date": "05:38 29/11/2022"
+        },
+        {
+            "title": "Of course you want more; we want more and are working on that.",
+            "content": "We can't wait to share with you more. Please share with us your thought; we love to hear from you.",
+            "imageUrl": "https://i.pinimg.com/474x/6d/ba/00/6dba004bd65cfe49524b40e08c29db91.jpg"
+        },
+        {
+            "title": "Very important!",
+            "content": "This software is provided `as is` and we cannot be held responsible for any damages or losses that may result from the use of the software. Please be aware that the software may contain bugs or vulnerabilities that could cause problems or result in data loss.",
+            "imageUrl": "https://i.pinimg.com/474x/6d/ba/00/6dba004bd65cfe49524b40e08c29db91.jpg"
+        }
+    ]
 }
