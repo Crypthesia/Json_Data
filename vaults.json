@@ -22,16 +22,6 @@
       "pool":"0xFb6FE7802bA9290ef8b00CA16Af4Bc26eb663a28",
       "chain_id": "137",
       "strategy_type": "StrategyCurveLP.sol"
-    },
-    {
-      "bf_id": "jetswap-poly-usdc-usdt",
-      "tokens":["USDC","USDT"],
-      "token_address":["0x2791bca1f2de4661ed88a30c99a7a9449aa84174","0xc2132d05d31c914a87c6611c10748aeb04b58e8f"],
-      "platform":"jetswap",
-      "vault_address": "0x93c9f29CF2496e73f3d8b07055e2359267207147",
-      "want": "0x20bf018fddba3b352f3d913fe1c81b846fe0f490",
-      "chain_id": "137",
-      "strategy_type": "StrategyCommonChefLP.sol"
     }
   ]
 }
