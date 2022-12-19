@@ -14,6 +14,19 @@
       "strategy_type": "StrategyBalancerComposableMultiRewardGauge.sol"
     },
     {
+      "bf_id": "balancer-matic-stmatic-v2",
+      "tokens": ["stMATIC", "MATIC"],
+      "token_address":["0x3a58a54c066fdc0f2d55fc9c89f0415c92ebf3c4","0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270"],
+      "token_decimals":[18,18],
+      "platform":"balancer",
+      "vault_address": "0x1998b67A6b98a7F7B15e0e9A943F7b72A02F4eE9",
+      "want": "0x8159462d255c1d24915cb51ec361f700174cd994",
+      "want_decimal":18,
+      "zap":"0x553C9FFFc6D7F5Ad46386c213aaC6668aFFC8898",
+      "chain_id": "137",
+      "strategy_type": "StrategyBalancerComposableMultiRewardGauge.sol"
+    },
+    {
       "bf_id": "curve-matic-stmatic",
       "tokens": ["stMATIC", "MATIC"],
       "token_address":["0x3a58a54c066fdc0f2d55fc9c89f0415c92ebf3c4","0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270"],
